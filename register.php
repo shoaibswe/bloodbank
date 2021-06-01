@@ -68,7 +68,7 @@
 						<div class="overlay"></div>
 						<div class="content text">
 							<h1 class="heading">Welcome Blood Bank System</h1>
-							<p>Developed By <a href="http://shafraz.freeiz.com">Shafraz Nizam</a></p>
+							<p>Developed By Tahsin Ahmed</p>
 						</div>
 					</div>
 					<div class="clearfix"></div>

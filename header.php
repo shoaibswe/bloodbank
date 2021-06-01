@@ -75,8 +75,8 @@
 				<nav>
 					<ul class="nav">
 						<li><a href="admin_dashboard.php" class="active"><i class="lnr lnr-home"></i> <span>Dashboard</span></a></li>
-						<li><a href="state.php" class=""><i class="lnr lnr-code"></i> <span>State</span></a></li>
-						<li><a href="city.php" class=""><i class="lnr lnr-chart-bars"></i> <span>City</span></a></li>
+						<li><a href="state.php" class=""><i class="lnr lnr-code"></i> <span>Region</span></a></li>
+						<li><a href="city.php" class=""><i class="lnr lnr-chart-bars"></i> <span>Area</span></a></li>
 						<li><a href="members.php" class=""><i class="lnr lnr-cog"></i> <span>Members</span></a></li>
 						<li><a href="blood_requests.php" class=""><i class="lnr lnr-cog"></i> <span>Blood Requests</span></a></li>
 						<li><a href="donor.php" class=""><i class="lnr lnr-alarm"></i> <span>Non Active Donors</span></a></li>

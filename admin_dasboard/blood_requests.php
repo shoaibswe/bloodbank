@@ -23,7 +23,7 @@
 			<div class="main-content">
 				<div class="container-fluid">
 
-  <h2>Hello,  <span style="color: blue"> <?php echo $_SESSION['membername']?></span> Listed Requester. </h2> <br />
+  <!-- <h2>Hello,  <span style="color: blue"> <?php echo $_SESSION['membername']?></span> Listed Requester. </h2> <br /> -->
   <p><button type="button" class="btn btn-primary" data-toggle="modal" data-target="#needblood">Request For Blood</button></p> <br />           
   
   <table class="table table-bordered" id="request">
@@ -38,6 +38,7 @@
         <th>Reason</th>
         <th>Image</th>
         <th>Action</th>
+        <!-- <th>Action</th> -->
         
       </tr>
     </thead>
@@ -64,7 +65,8 @@
         <?php  } ?></td>
           
           <td><button type="button" data-toggle="modal" data-target="#deletrequester<?php echo $row['requester_id']?>" class="btn btn-danger">Delete</button>
-         
+          <!-- <td><button type="button" data-toggle="modal" data-target="#editrequester<?php echo $row['requester_id']?>" class="btn btn-warning">Edit</button> -->
+
 
 
           </td>
